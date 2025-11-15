@@ -33,4 +33,8 @@ It provides a seamless user experience by combining a modern frontend interface 
 ---
 
 ## 🧬 Repository Structure  
-
+├── .github/
+├── .netlify/
+├── client/ ← Frontend code
+├── server/ ← Backend code
+└── README.md ← This file
